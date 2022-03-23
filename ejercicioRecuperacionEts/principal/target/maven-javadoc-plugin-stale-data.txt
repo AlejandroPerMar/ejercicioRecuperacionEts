@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Proyecto Hijo 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Proyecto Hijo 1.0.0 API'
+es.iespuerto.principal
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/src/main/java = 1648053534244
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/script.js = 1648054151268
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/allclasses-frame.html = 1648054151256
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/index-all.html = 1648054151252
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/index.html = 1648054151256
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/deprecated-list.html = 1648054151256
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/package-list = 1648054151212
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/constant-values.html = 1648054151240
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/overview-tree.html = 1648054151248
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/stylesheet.css = 1648054151268
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/help-doc.html = 1648054151264
+/home/alepmdam/Escritorio/ejercicioRecuperacionEts/principal/target/site/apidocs/allclasses-noframe.html = 1648054151256
